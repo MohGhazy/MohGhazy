@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Moh. Ghazy Ayi Alghifari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Enthusiast;Django+%7C+Laravel+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Organization+Enthusiast" />
 </p>
 
 <p align="center">
