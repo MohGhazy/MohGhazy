@@ -1,8 +1,31 @@
-<h1 align="center">Hai 👋 I'm Moh. Ghazy Ayi Alghifari</h1>
+<h1 align="center">Hi 👋 I'm Moh. Ghazy Ayi Alghifari</h1>
 
 <p align="center">
-  🚀 Web Developer | Informatics Engineering Student <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Enthusiast;Django+%7C+Laravel+Learner" />
+</p>
+
+<p align="center">
+  🚀 Informatics Engineering Student <br/>
   💻 Focus on Backend & Web Development
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Student at Informatics Engineering
+* 🔥 Currently building web apps
+* ⚡ Love solving real-world problems
+* 🚀 Always learning & improving
+
+---
+
+### 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/MohGhazy/DailyTracker">
+    🔥 DailyTracker — Activity Management App
+  </a>
 </p>
 
 ---
@@ -11,6 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohGhazy&layout=compact&theme=dracula" height="150"/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php,cs" height="60" />
 </div>
 
@@ -63,10 +87,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohGhazy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohGhazy&theme=dracula" height="150"/>
 </div>
 
-###
+---
+
+### 🕹️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
