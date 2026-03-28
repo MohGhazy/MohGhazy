@@ -26,6 +26,7 @@
   <a href="https://github.com/MohGhazy/dailytracker">
     🔥 DailyTracker — Activity Management App
   </a>
+  <br/>
   <a href="https://github.com/MohGhazy/spendguard">
     🔥 SpendGuard — Money Tracker App
   </a>
