@@ -5,18 +5,15 @@
 </p>
 
 <p align="center">
-  🚀 Informatics Engineering Student <br/>
-  💻 Focus on Backend & Web Development
+  🚀 Informatics Engineering Student in University of Nurul Jadid<br/>
+  💻 Focus Web Development and Communication Skill
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Student at Informatics Engineering
-* 🔥 Currently building web apps
-* ⚡ Love solving real-world problems
-* 🚀 Always learning & improving
+I am an Informatics Engineering student with a strong interest in web development, especially in frontend systems. I enjoy building useful and scalable applications using technologies like Django. Besides coding, I am also actively involved in organizational activities, which helps me develop teamwork, communication, and problem-solving skills. I am always eager to learn new technologies and continuously improve my abilities to become a better developer.
 
 ---
 
