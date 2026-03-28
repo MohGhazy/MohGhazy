@@ -23,8 +23,11 @@
 ### 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/MohGhazy/DailyTracker">
+  <a href="https://github.com/MohGhazy/dailytracker">
     🔥 DailyTracker — Activity Management App
+  </a>
+  <a href="https://github.com/MohGhazy/spendguard">
+    🔥 SpendGuard — Money Tracker App
   </a>
 </p>
 
@@ -33,8 +36,6 @@
 ### 🧠 Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohGhazy&layout=compact&theme=dracula" height="150"/>
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php,cs" height="60" />
 </div>
 
@@ -94,12 +95,6 @@
 
 ### 🕹️ Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohGhazy&theme=github-dark"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
