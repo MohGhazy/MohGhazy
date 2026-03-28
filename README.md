@@ -93,7 +93,7 @@
 ---
 
 ### 🕹️ Contribution Graph
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohGhazy&theme=github-dark"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
