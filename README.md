@@ -10,6 +10,7 @@
 ### 🧠 Languages
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohGhazy&layout=compact&theme=dracula" height="150"/>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php,cs" height="60" />
 </div>
 
