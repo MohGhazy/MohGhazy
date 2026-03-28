@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,10 +18,9 @@ jobs:
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push to repository
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: output
