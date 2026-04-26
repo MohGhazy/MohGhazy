@@ -27,6 +27,7 @@ I am an Informatics Engineering student with a strong interest in web developmen
   <a href="https://github.com/MohGhazy/spendguard">
     🔥 SpendGuard — Money Tracker App
   </a>
+  <br/>
   <a href="https://github.com/MohGhazy/">
     🔥 Kopertive — Savings and Loan Cooperative
   </a>
