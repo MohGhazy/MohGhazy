@@ -28,7 +28,7 @@ I am an Informatics Engineering student with a strong interest in web developmen
     🔥 SpendGuard — Money Tracker App
   </a>
   <br/>
-  <a href="https://github.com/MohGhazy/">
+  <a href="https://github.com/MohGhazy/kopertive">
     🔥 Kopertive — Savings and Loan Cooperative
   </a>
 </p>
@@ -90,15 +90,19 @@ I am an Informatics Engineering student with a strong interest in web developmen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohGhazy&theme=dracula&zone=Asia/Jakarta" height="150"/>
+  <img src="https://streak-stats.demolab.com?zone=Asia%2FJakarta&theme=dracula&user=MohGhazy&v=1" height="150"/>
 </div>
 
 ---
 
 ### 🕹️ Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohGhazy&theme=github-dark"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
-</picture>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohGhazy&theme=github-dark" width="100%" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohGhazy/MohGhazy/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
