@@ -90,7 +90,7 @@ I am an Informatics Engineering student with a strong interest in web developmen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohGhazy&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=MohGhazy&theme=dracula&zone=Asia/Jakarta" height="150"/>
 </div>
 
 ---
